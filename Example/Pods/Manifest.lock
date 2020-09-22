@@ -1,16 +1,16 @@
 PODS:
-  - SideMenuController-Swift4 (0.1.0)
+  - SideMenuController-Swift4 (0.1.1)
 
 DEPENDENCIES:
   - SideMenuController-Swift4 (from `../`)
 
 EXTERNAL SOURCES:
   SideMenuController-Swift4:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  SideMenuController-Swift4: 311afe8eb9374b2699075c17cbdce255ff54c630
+  SideMenuController-Swift4: 9395724837d2fd40e7e7fa8ff5628143793e05c3
 
 PODFILE CHECKSUM: c603342e4f698b6130e6f5f128f4fb4b582309a3
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.8.4

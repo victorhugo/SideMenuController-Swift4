@@ -1,6 +1,6 @@
 {
   "name": "SideMenuController-Swift4",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "SideMenuController migrated in Swift 4.",
   "description": "Swift 4 version of SideMenuController of teodorpatras",
   "homepage": "https://github.com/mb812/SideMenuController-Swift4",
@@ -13,11 +13,12 @@
   },
   "source": {
     "git": "https://github.com/mb812/SideMenuController-Swift4.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "12.0"
   },
-  "swift_version": "4.0",
-  "source_files": "SideMenuController-Swift4/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "SideMenuController-Swift4/Classes/**/*",
+  "swift_version": "5.0"
 }

@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SideMenuController_Swift4
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
