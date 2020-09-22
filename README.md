@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/SideMenuController-Swift4.svg?style=flat)](http://cocoapods.org/pods/SideMenuController-Swift4)
 [![Platform](https://img.shields.io/cocoapods/p/SideMenuController-Swift4.svg?style=flat)](http://cocoapods.org/pods/SideMenuController-Swift4)
 
+## Description
+
+Fixed warnings and making it functional in Swift5
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -23,6 +27,7 @@ pod 'SideMenuController-Swift4'
 ## Author
 
 mb812, marco.bonato.dev@gmail.com
+fixed for Swift5 by @victor_hugo
 
 ## License
 
